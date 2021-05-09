@@ -1,2 +1,5 @@
-=== list of missing submissions ===
-No students were missing a submission.
+=== Example Assignment - missing submissions ===
+1 Clark, Cake 
+	cla001@mascot.school.edu
+2 Evans, Evin 
+	eva001@mascot.school.edu
